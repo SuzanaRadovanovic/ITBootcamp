@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(240, 240, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 58, 97);
+
+}
+
+header {
+   height: 15vh;
+}
+.vrhnav{
+overflow: hidden;
+background-color: rgb(170, 170, 219);
+}
+.vrhnav a{
+    float: left;
+    display: inline-flex;
+    text-align: center;
+    padding: 20px;
+    margin-left: 30px;
+}
+
+main {
+    height: 70vh;
+    padding: 15px;
+    margin: 15px;
+   
+}
+
+
+footer {
+    height: 15vh;
+    background-color: rgb(117, 210, 223);
+}
+.footklasa{
+    padding-top: 50px;
+    padding-left: 100px;
+    border: 5px;
+    margin: 25p;
+    text-justify: auto;      
+}
