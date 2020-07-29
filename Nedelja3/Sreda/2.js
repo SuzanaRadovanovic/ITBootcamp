@@ -7,3 +7,5 @@ function CenaPoCm(P,cena){
 }
 console.log(CenaPoCm(P,cena))
 
+
+
